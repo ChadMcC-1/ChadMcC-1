@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Chad McCarthy**
 - 👀 I’m interested in *Golfing*, *Kayaking*, *exploring*, *space*, and *flying drones*
-- 🌱 I’m currently learning **Front end web development**
+- 🌱 I’m currently learning **Front End Web Development**
 - 💞️ I’m looking to collaborate on projects that will allow me to use my new skills including HTML, CSS, and JavaScript
  
 ![Image of space](https://i.natgeofe.com/n/8a3e578f-346b-479f-971d-29dd99a6b699/nationalgeographic_2751013_4x3.jpg)
